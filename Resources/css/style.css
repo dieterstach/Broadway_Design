@@ -1,8 +1,13 @@
 body {
   text-align: center;
+  font-family: Helvetica;
 }
 
 h1 {
   font-family: Helvetica;
   font-weight: bold;
+}
+
+.home {
+  background-image: url("file:///Users/dieterstach/Desktop/Coding_Projects/Broadway_Design/Resources/images/backround_img.png");
 }
