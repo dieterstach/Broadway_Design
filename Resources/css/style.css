@@ -6,8 +6,39 @@ body {
 h1 {
   font-family: Helvetica;
   font-weight: bold;
+  font-size: 70px;
 }
 
-.home {
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h4 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+}
+
+.bottom {
+  background-color: dimgray;
+  font-size: 11px;
+  text-align: left;
+}
+
+.home,
+a {
+  color: white;
+}
+
+.home a {
+  font-size: 18px;
+}
+
+.home,
+.divide {
   background-image: url("file:///Users/dieterstach/Desktop/Coding_Projects/Broadway_Design/Resources/images/backround_img.png");
 }
