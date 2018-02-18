@@ -17,6 +17,7 @@ h2 {
 h4 {
   font-size: 23px;
   font-weight: bold;
+  margin: 23px;
 }
 
 p {
@@ -25,8 +26,13 @@ p {
 
 .bottom {
   background-color: dimgray;
+  color: white;
   font-size: 11px;
   text-align: left;
+}
+
+.divide {
+  color: white;
 }
 
 .home,
